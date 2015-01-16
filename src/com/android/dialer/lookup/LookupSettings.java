@@ -38,7 +38,6 @@ public final class LookupSettings {
 
     /** Reverse lookup providers */
     public static final String RLP_OPENCNAM = "OpenCnam";
-    public static final String RLP_PAGINEBIANCHE = "PagineBianche";
     public static final String RLP_WHITEPAGES = "WhitePages";
     public static final String RLP_WHITEPAGES_CA = "WhitePages_CA";
     public static final String RLP_YELLOWPAGES = "YellowPages";
